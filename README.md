@@ -13,4 +13,6 @@ Keybinding         | Description
 <kbd>C-x C-f [file-path]</kbd> | Create/Open a file
 <kbd>C-x C-s</kbd> or <kbd>CMD-s</kbd> | Save a file
 <kbd>M-x [function-name]</kbd> | Run a function
-<kbd>M-x package-list-packages</kbd> | List available packages
+<kbd>M-x package-list-packages</kbd> <br/> <kbd>i</kbd>-nstall, <kbd>u</kbd>-nmark, <kbd>d</kbd>-elete, <kbd>x</kbd>-ecute, <kbd>r</kbd>-efresh, <kbd>h</kbd>-elp, <kbd>q</kbd>-uit | List available packages
+<kbd>M-x package-install</kbd> ... <kbd>[package-name]</kbd> | Install a package from the local package list
+<kbd>M-x package-refresh-contents</kbd> | Refresh the local package list
