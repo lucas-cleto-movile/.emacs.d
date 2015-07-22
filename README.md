@@ -24,11 +24,10 @@ Keybinding         | Description
 <kbd>M-x package-install</kbd> ... <kbd>[package-name]</kbd> | Install a package from the local package list
 <kbd>M-x package-refresh-contents</kbd> | Refresh the local package list
 
-#### Core Editing
+#### Core Editing and Movement
 
 Keybinding         | Description
 -------------------|------------------------------------------------------------
-<kbd>C-y</kbd> | Paste
 <kbd>C-k</kbd> | Kill all text after point on the current line
 <kbd>C-/</kbd> or <kbd>CMD-z</kbd> | Undo
 <kbd>C-a</kbd> | Move to beginning of line
@@ -42,4 +41,21 @@ Keybinding         | Description
 <kbd>M-></kbd> | Move to end of buffer
 <kbd>M-gg</kbd> ... <kbd>[number]</kbd> | Go to line <kbd>[number]</kbd>
 <kbd>C-space</kbd> | Create a region setting the mark
+<kbd>M-x replace-string</kbd> ... <kbd>[string 1]</kbd> ... <kbd>[string 2]</kbd> | Replace <kbd>[string 1]</kbd> with <kbd>[string 2]</kbd> in the current region
+
+#### Kill Ring
+
+Keybinding         | Description
+-------------------|------------------------------------------------------------
+<kbd>C-w</kbd> |	Kill region
+<kbd>M-w</kbd> |	Copy region to kill ring
+<kbd>C-y</kbd> |	Yank ("paste")
+<kbd>M-y</kbd> |	Cycle through kill ring after yanking
+<kbd>M-d</kbd> |	Kill word
+<kbd>C-k</kbd> |	Kill line
+
+
+
+
+
 
