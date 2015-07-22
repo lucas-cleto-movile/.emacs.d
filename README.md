@@ -16,3 +16,12 @@ Keybinding         | Description
 <kbd>M-x package-list-packages</kbd> <br/> <kbd>i</kbd>-nstall, <kbd>u</kbd>-nmark, <kbd>d</kbd>-elete, <kbd>x</kbd>-ecute, <kbd>r</kbd>-efresh, <kbd>h</kbd>-elp, <kbd>q</kbd>-uit | List available packages
 <kbd>M-x package-install</kbd> ... <kbd>[package-name]</kbd> | Install a package from the local package list
 <kbd>M-x package-refresh-contents</kbd> | Refresh the local package list
+<kbd>C-y</kbd> | Paste
+<kbd>C-k</kbd> | Kill all text after point on the current line
+<kbd>C-/</kbd> or <kbd>CMD-z</kbd> | Undo
+<kbd>C-a</kbd> | Move to beginning of line
+<kbd>M-m</kbd> | Move to the first non-whitespace character on the line
+<kbd>C-e</kbd> | Move to end of line
+<kbd>M-f</kbd> | Move forward one word
+<kbd>M-b</kbd> | Move backward one word
+<kbd>C-s</kbd> | Regex search for text in the current buffer and move to it. Hit C-s again to move to the next match
