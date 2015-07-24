@@ -10,6 +10,15 @@ Conventions:
 - <kbd>M-[something]</kbd> : Option + <kbd>[something]</kbd>
 - <kbd>CMD-[something]</kbd> : Command + <kbd>[something]</kbd>
 
+#### Emacs Basics and Meta
+
+Keybinding         | Description
+-------------------|------------------------------------------------------------
+<kbd>C-x C-c</kbd> | Exit Emacs
+<kbd>M-x [function-name]</kbd> | Run a function
+<kbd>C-h [function-name]</kbd> |	Describe function
+<kbd>C-h k [keybinding]</kbd> | Describes the function bound to the <kbd>keybinding</kbd>
+
 #### Buffers and Files
 
 Keybinding         | Description
@@ -21,13 +30,10 @@ Keybinding         | Description
 <kbd>C-x C-s</kbd> or <kbd>CMD-s</kbd> | Save a file
 <kbd>C-x 1</kbd> | Delete other windows
 
-#### Meta and Packages
+#### Packages
 
 Keybinding         | Description
 -------------------|------------------------------------------------------------
-<kbd>M-x [function-name]</kbd> | Run a function
-<kbd>C-h [function-name]</kbd> |	Describe function
-<kbd>C-h k [keybinding]</kbd> | Describes the function bound to the <kbd>keybinding</kbd>
 <kbd>M-x package-list-packages</kbd> <br/> <kbd>i</kbd>-nstall, <kbd>u</kbd>-nmark, <kbd>d</kbd>-elete, <kbd>x</kbd>-ecute, <kbd>r</kbd>-efresh, <kbd>h</kbd>-elp, <kbd>q</kbd>-uit | List available packages
 <kbd>M-x package-install</kbd> ... <kbd>[package-name]</kbd> | Install a package from the local package list
 <kbd>M-x package-refresh-contents</kbd> | Refresh the local package list
