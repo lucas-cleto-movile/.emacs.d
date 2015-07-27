@@ -61,6 +61,16 @@ Keybinding         | Description
 <kbd><kbd>tab</kbd></kbd> | Indent line
 <kbd>C-j</kbd> | New indented line
 
+#### Windows and Frames
+
+Keybinding         | Description
+-------------------|------------------------------------------------------------
+<kbd>C-x o</kbd> | Switch cursor to another window. Go ahead and try this now to switch between your Clojure file and the REPL
+<kbd>C-x 1</kbd> | Delete all other windows. This doesn't close your buffers and it won't cause you to lose any work. It just un-splits your frame.
+<kbd>C-x 2</kbd> | Split window, above and below
+<kbd>C-x 3</kbd> | Split window, side by side
+<kbd>C-x 0</kbd> | Delete current window
+
 #### Kill Ring
 
 Keybinding         | Description
