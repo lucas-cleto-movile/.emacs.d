@@ -82,4 +82,13 @@ Keybinding         | Description
 <kbd>M-d</kbd> |	Kill word
 <kbd>C-k</kbd> |	Kill line
 
+#### REPL
+
+Keybinding         | Description
+-------------------|------------------------------------------------------------
+<kbd>C-x C-e</kbd> | Send the expression immediately preceding point to nrepl
+<kbd>C-c M-n</kbd> | Set the namespace to the namespace listed at the top of your current file
+<kbd>C-c C-k</kbd> | Compile and run the current file within the CIDER session
+
+
 
