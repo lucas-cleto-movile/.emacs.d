@@ -97,5 +97,7 @@ Keybinding         | Description
 Keybinding         | Description
 -------------------|------------------------------------------------------------
 <kbd>M-x paredit-mode</kbd> |  Toggles paredit mode on and off
-
-
+<kbd>M-(</kbd> | Paredit wrap round
+<kbd>C-→</kbd> | Slurp a element
+<kbd>C-←</kbd> | Barf a element
+<kbd>C-M-f, C-M-b</kbd> | Move to the opening/closing parenthesis
