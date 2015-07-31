@@ -98,6 +98,6 @@ Keybinding         | Description
 -------------------|------------------------------------------------------------
 <kbd>M-x paredit-mode</kbd> |  Toggles paredit mode on and off
 <kbd>M-(</kbd> | Paredit wrap round
-<kbd>C-<kbd>Shift</kbd>-→</kbd> | Slurp a element
-<kbd>C-<kbd>Shift</kbd>-←</kbd> | Barf a element
+<kbd>C-<kbd>Shift</kbd>-<kbd>right</kbd></kbd> | Slurp a element
+<kbd>C-<kbd>Shift</kbd>-<kbd>left</kbd></kbd> | Barf a element
 <kbd>C-M-f, C-M-b</kbd> | Move to the opening/closing parenthesis
