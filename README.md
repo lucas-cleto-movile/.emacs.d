@@ -89,7 +89,7 @@ Keybinding         | Description
 <kbd>C-x C-e</kbd> | Send the expression immediately preceding point to nrepl
 <kbd>C-c M-n</kbd> | Set the namespace to the namespace listed at the top of your current file
 <kbd>C-c C-k</kbd> | Compile and run the current file within the CIDER session
-<kbd>C-↑ and C-↓</kbd> | Cycle through CIDER history 
+<kbd>C-<kbd>up</kbd> and C-<kbd>down</kbd></kbd> | Cycle through CIDER history 
 <kbd>q</kbd> | Culose the stack trace and go back to CIDER 
 
 #### Paredit
