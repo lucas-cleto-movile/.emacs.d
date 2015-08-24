@@ -90,8 +90,8 @@ Keybinding         | Description
 <kbd>C-c M-n</kbd> | Set the namespace to the namespace listed at the top of your current file
 <kbd>C-c C-k</kbd> | Compile and run the current file within the CIDER session
 <kbd>C-<kbd>up</kbd> and C-<kbd>down</kbd></kbd> | Cycle through CIDER history 
-<kbd>q</kbd> | Culose the stack trace and go back to CIDER 
 <kbd>C-c M-o</kbd> | Clear the REPL 
+<kbd>q</kbd> | Close the stack trace and go back to CIDER 
 
 #### Paredit
 
