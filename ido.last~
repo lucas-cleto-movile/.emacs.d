@@ -1,0 +1,51 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/lucas-cleto/clojure-noob/src/" . "clojure_noob/")
+ ("/Users/lucas-cleto/clojure-noob/" . "src/")
+ ("/Users/lucas-cleto/.emacs.d/" . "customizations/")
+ ("/Users/lucas-cleto/" . "clojure-noob/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/lucas-cleto/clojure-noob/src/clojure_noob/"
+ "/Users/lucas-cleto/.emacs.d/"
+ "/Users/lucas-cleto/.emacs.d/customizations/"
+ "/Users/lucas-cleto/Desktop/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "init.el"
+ "ui.el"
+ "Boleto.pdf"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/lucas-cleto/clojure-noob/src/clojure_noob/" (21969 60522 0 0) "core.clj" "../" "./")
+
+ ("/Users/lucas-cleto/clojure-noob/" (21969 60579 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".lein-repl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/lucas-cleto/" (21971 20997 0 0) "x509/" "win7.ova" "VirtualBox VMs/" "Vagrantfile" "unicamp/" "TODO" "teste.tmp" "SVM/" "Sites/" "security-jenkins-vault/" "security/" "Public/" "profiles" "preferences" "potsdam-ios/" "playkids-talk-ios/" "pk-client-cert.crt" "Pictures/" "owasp_zap_root_ca.cer" "Music/" "MSFT/" "MQTTExample/" "movile-repo/" "movile-chat-ios/" "movile/" "Movies/" "Library/" "left" "keys" "Google Drive/" "gandalf/" "email.asc" "email" "Dropbox/" "Downloads/" "download-manager-ios/" "Documents/" "Desktop/" "dead.letter" "cm12.1_golden.nova.20150531.ODIN_TWRP.zip" "clojure-noob/" "clojure-droid/" "Chess Database/" "chef-test/" "bin/" "aulas-mateus/" "Applications/" ".zshrc" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".viminfo" ".vim/" ".vagrant.d/" ".vagrant/" ".Trash/" ".swp" ".swo" ".swn" ".swm" ".swl" ".swk" ".swj" ".swi" ".swh" ".swg" ".swf" ".swe" ".swd" ".swc" ".swb" ".subversion/" ".ssh/" ".sqlite_history" ".sonic-pi/" ".rnd" ".profile.macports-saved_2015-04-08_at_16:55:09" ".profile" ".openvpn-connect.json" ".netrc" ".mysql_history" ".m2/" ".local/" ".lein/" ".keepassx/" ".jenkins/" ".internet_chess_club/" ".IntelliJIdea14/" ".gvm/" ".groovy/" ".grails_history" ".grails/" ".gradle/" ".gnupg/" ".gitconfig" ".gem/" ".gbas" ".emacs.d/" ".elinks/" ".eclipse/" ".DS_Store" ".dropbox/" ".dbeaver/" ".cups/" ".config/" ".composer/" ".cocoapods/" ".chef/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_history" ".android/" "+Esc" "../" "./")
+
+ ("/Users/lucas-cleto/.emacs.d/" (21969 58225 0 0) "themes/" "SessionDesktop.el" "README.md" "projectile-bookmarks.eld" "places" "packages/" "init.el" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".git/" "%backup%~" "../" "./")
+
+ ("/Users/lucas-cleto/.emacs.d/elpa/" (21966 14959 0 0) "tagedit-20140618.521/" "smex-20140425.1314/" "s-20140714.707/" "rainbow-delimiters-20140713.1131/" "queue-0.1.1/" "projectile-20140716.416/" "popup-20150626.711/" "pkg-info-20140610.630/" "paredit-20140128.1248/" "magit-20140720.358/" "javap-mode-20120223.1408/" "ido-ubiquitous-20140526.1306/" "highlight-20150718.1620/" "gnupg/" "git-rebase-mode-20140605.520/" "git-commit-mode-20140605.520/" "exec-path-from-shell-20141212.846/" "eval-sexp-fu-20131230.1351/" "epl-20140620.218/" "emacs-xkcd-1.0/" "dash-20140717.547/" "clojure-mode-extra-font-locking-20140613.839/" "clojure-mode-20150726.100/" "clojure-mode-20141120.1410/" "cl-lib-0.5/" "cider-readme.txt" "cider-eval-sexp-fu-20150320.2015/" "cider-decompile-20131116.1002/" "cider-20150727.1011/" "cider-20150726.748/" "cider-20141120.1746/" "auto-complete-20150618.1949/" "archives/" "ac-cider-20150306.254/" "../" "./")
+
+ ("/Users/lucas-cleto/.emacs.d/elpa/ac-cider-20150306.254/" (21966 14959 0 0) "ac-cider.elc" "ac-cider.el" "ac-cider-pkg.elc" "ac-cider-pkg.el" "ac-cider-autoloads.el" "../" "./")
+
+ ("/Users/lucas-cleto/clojure-noob/src/" (21916 7938 0 0) "clojure_noob/" "../" "./")
+
+ ("/Users/" (21877 38116 0 0) "Shared/" "office/" "macports/" "lucas-cleto/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/lucas-cleto/.emacs.d/customizations/" (21934 14536 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/lucas-cleto/Desktop/" (21933 18011 0 0) "VVDocumenter-Xcode-master/" "tumblr_lty7jkuJEg1qc3cnko1_400.gif" "teste.crt" "Test/" "Screen Shot 2015-07-20 at 4.03.49 PM.png" "Screen Shot 2015-07-18 at 4.22.48 PM.png" "Screen Shot 2015-07-18 at 4.22.02 PM.png" "Screen Shot 2015-07-18 at 4.20.51 PM.png" "Screen Shot 2015-07-14 at 11.52.50 AM.png" "Screen Shot 2015-07-14 at 11.34.17 AM.png" "Screen Shot 2015-07-13 at 9.56.48 AM.png" "Screen Shot 2015-07-13 at 2.09.39 PM.png" "Screen Shot 2015-07-13 at 1.07.48 AM.png" "Screen Shot 2015-07-03 at 10.57.33 AM.png" "Screen Shot 2015-06-25 at 2.00.06 PM.png" "Screen Shot 2015-06-24 at 11.30.11 PM.png" "Screen Shot 2015-06-24 at 11.29.29 PM.png" "Screen Shot 2015-06-19 at 2.28.34 PM.png" "Screen Shot 2015-06-18 at 8.12.52 PM.png" "Screen Shot 2015-06-16 at 12.04.21 AM.png" "Screen Shot 2015-06-16 at 10.37.02 AM.png" "Screen Shot 2015-06-16 at 10.36.47 AM.png" "Screen Shot 2015-06-09 at 5.47.48 PM.png" "Screen Shot 2015-06-05 at 2.37.24 PM.png" "Screen Shot 2015-06-05 at 2.36.46 PM.png" "Screen Shot 2015-06-05 at 11.26.37 PM.png" "Screen Shot 2015-06-05 at 11.25.23 PM.png" "Screen Shot 2015-06-03 at 11.55.42 AM.png" "Screen Shot 2015-06-03 at 1.49.20 PM.png" "Screen Shot 2015-05-26 at 4.09.43 PM.png" "Screen Shot 2015-05-26 at 12.19.08 AM.png" "Screen Shot 2015-05-25 at 11.09.23 PM.png" "Screen Shot 2015-05-20 at 10.58.40 AM.png" "Screen Shot 2015-05-18 at 5.00.20 PM.png" "Screen Shot 2015-05-18 at 10.13.02 AM.png" "Screen Shot 2015-05-13 at 3.33.08 PM.png" "RV.pdf" "Portland/" "playkids-ios-master/" "photos/" "others/" "NewChat/" "MC202/" "mapa-mundo-artigos-científicos-838x419.png" "l7.c.txt" "Kali-Linux-1.1.0-vm-amd64/" "grails-2.3.11.zip" "grails-2.3.11/" "gbbd_uni_setup.pkg" "gandalf_the_white.sql" "gandalf-master.zip" "gandalf old/" "gandalf/" "download-manager-ios-master/" "concursos-ios-master/" "Comprovante.pdf" "comprovante de matricula.pdf" "clojure-lab.zip" "clojure-lab/" "Cheftime is a modern meal subscription service wit" "CA.crt" "Brazil/" "Boleto.pdf" "Backup/" "Algebra Linear/" "ACFrOgCf4RVV3RFy4Z5bgXcdvNzvyiWUEj4cpnULwmuRkvYb_gKGkUYVqsfkST78UULn1NJ1uG6T3eeNxAbkuFTp3w99reO3iwSeEbOoj5nQWiCZo-Jjy05zqiRFt6c=_print=true&nonce=0h1n7ccmp0o3c&user=15676082402569256083&hash=k1ck6klo98g065ln5u8i23ejgiub6032.pdf" "a.html" "1743587_1374299166170723_1986605549_n.jpg" "11224307_1620898998177404_2588838870089351245_n.jpg" "11108388_10204099170347461_8695714154531587856_n.jpg" "11008546_769759503122235_4278515193215417_n.jpg" ".swp" ".localized" ".Keka-831D3321-8469-4DEA-880C-E9464C568DB5/" ".DS_Store" ".26F0D9EF.asc.swp" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
